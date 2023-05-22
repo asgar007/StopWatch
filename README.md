@@ -10,7 +10,7 @@ This is a simple stopwatch app implemented using HTML, CSS, and JavaScript. The 
 
 ## How to Use
 
-1. Open the `index.html` file in a web browser.
+1. Open the url https://asgar007.github.io/StopWatch/
 2. The stopwatch app will be displayed, showing the initial time of 00:00:00.000.
 3. To start the stopwatch, click the "Start" button.
 4. The stopwatch will begin counting up, displaying the elapsed time in hours, minutes, seconds, and milliseconds.
